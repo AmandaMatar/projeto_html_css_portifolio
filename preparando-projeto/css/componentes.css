@@ -3,33 +3,38 @@
 \*----------------------*/
 
 .plano {
-    border: 1px solid #95a4a5;
     padding: 10px;
+    border: 1px solid #95a4a5;
 }
 
 
 .plano__cabecalho {
-    background-color: #95a4a5;
-    color: #fff;
-    text-align: center;
-    line-height: 2.5;
     margin: -10px;
     margin-bottom: 0;
+
+    background-color: #95a4a5;
+    color: #fff;
+
+    text-align: center;
+    line-height: 2.5;
     font-weight: normal;
     font-size: 28px;
 }
 
 .plano__preco {
+    margin: 20px 0;
+
     text-align: center;
     font-size: 28px;
-    margin: 20px 0;
 }
 
 .plano__caracterisitcas {
-    list-style: none;
     padding: 0;
     margin: 20px 0;
+
+    list-style: none;
 }
+
 
 .plano__caracterisitcas  > li {
     text-align: center;
@@ -46,16 +51,19 @@
 
 .botao {
     display: inline-block;
+    padding: 12px 16px;
+
     background-color: #bbb;
     color: #fff;
-    padding: 12px 16px;
+
     text-decoration: none;
 }
 
 .botao:hover, .botao:focus {
     background-color: #aaa;
-    text-decoration: none;
     color: #fff;
+
+    text-decoration: none;
 }
 
 .botao--assinar {

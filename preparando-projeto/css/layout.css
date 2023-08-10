@@ -1,18 +1,12 @@
 .layout-cabecalho {
     height: 60px;
     border-bottom: 1px solid #ccc;
-}
-
-.layout-cabecalho img {
+  }
+  
+  .layout-cabecalho img {
     margin-top: 12px;
-}
-
-.layout.planos {
+  }
+  
+  .layout-planos {
     padding: 80px 0;
-}
-
-.layout.planos {
-    content: "";
-    display: block;
-    clear: both;
-}
+  }

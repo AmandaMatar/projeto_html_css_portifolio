@@ -162,11 +162,25 @@
 }
 
 .depoimento > blockquote {
+    position: relative;
+
     margin: 0;
     padding: 0.60px;
 
     text-align: center;
     font-size: 1em;
+}
+
+.depoimento > blockquote::before {
+    position: absolute;
+    left: 0;
+    top: -0.35em;
+
+    color: #ccc;
+
+    font-size: 8em;
+
+    content: "\201c";
 }
 
 .depoimento__autor {

@@ -20,34 +20,34 @@
 ##### Veja o layout da página pensada, e a sua adaptação para as telas (pequenas, médias e grandes):
  - Telas grandes
 
-https://drive.google.com/file/d/1BcUqwKhiyiklI8bZsWDFlDZflrMirvJY/view?usp=sharing, https://drive.google.com/file/d/1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD/view?usp=sharing, https://drive.google.com/file/d/1Orb_MBufFC6iy2ryD4wsvUdMmThmUCfT/view?usp=sharing, https://drive.google.com/file/d/1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx/view?usp=sharing, https://drive.google.com/file/d/1ZgylHpvC8dnKEkSt7CVi1jCGUc8v0ybl/view?usp=sharing, https://drive.google.com/file/d/1mXS3pZj5Z4Qvlr4nGmCyoU1CbwwfkQQ6/view?usp=sharing
+https://drive.google.com/file/d/1mXS3pZj5Z4Qvlr4nGmCyoU1CbwwfkQQ6/view?usp=sharing
 
 <div aling="center">
  <img src="https://drive.google.com/file/d/12h40eNvZNN0W8S8gj39M84DwN_xWD-Si/view?usp=sharing" width="400px" height="360">
 </div>
 <div aling="center">
- <img src=".../imgread//telagrande2.png" width="400px" height="360">
+ <img src="https://drive.google.com/file/d/1BcUqwKhiyiklI8bZsWDFlDZflrMirvJY/view?usp=sharing " width="400px" height="360">
 </div>
 <div aling="center">
- <img src=".../imgread/telagrande3.png" width="400px" height="360">
+ <img src="https://drive.google.com/file/d/1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD/view?usp=sharing " width="400px" height="360">
 </div>
 
  - Telas médias
    
 <div aling="center">
- <img src="/projects/projeto_html_css_portifolio/imagens/telamedia1.png" width="400px" height="360">
+ <img src="https://drive.google.com/file/d/1Orb_MBufFC6iy2ryD4wsvUdMmThmUCfT/view?usp=sharing " width="400px" height="360">
 </div>
 <div aling="center">
- <img src="/projects/projeto_html_css_portifolio/imagens/telamedia2.png" width="400px" height="360"
+ <img src="https://drive.google.com/file/d/1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx/view?usp=sharing " width="400px" height="360"
 </div>
 <div aling="center">
- <img src="/projects/projeto_html_css_portifolio/imagens/telamedia3.png" width="400px" height="360">
+ <img src="https://drive.google.com/file/d/1ZgylHpvC8dnKEkSt7CVi1jCGUc8v0ybl/view?usp=sharing " width="400px" height="360">
 </div>
 
  - Telas pequenas
    
 <div aling="center">
- <img src="/projects/projeto_html_css_portifolio/imagens/telapqeuna1.png" width="400px" height="360">
+ <img src="https://drive.google.com/file/d/1mXS3pZj5Z4Qvlr4nGmCyoU1CbwwfkQQ6/view?usp=sharing" width="400px" height="360">
 </div>
 <div aling="center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telaprquena2.png" width="400px" height="360">

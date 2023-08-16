@@ -18,9 +18,9 @@
  - Telas grandes
    
 <div aling-"center">
- <img src="assests/projects/projeto_html_css_portifolio/imagens/telagrande1.png" width="100px">
- <img src="/projects/projeto_html_css_portifolio/imagens/telagrande2.png" width="100px">
- <img src="/projects/projeto_html_css_portifolio/imagens/telagrande3.png" width="100px">
+ <img src=".../imgread/telagrande1.png" width="360px" height="600px">
+ <img src=".../imgread//telagrande2.png" width="360px" height="600px">
+ <img src=".../imgread/telagrande3.png" width="360px" height="600px">
 </div>
 
  - Telas médias

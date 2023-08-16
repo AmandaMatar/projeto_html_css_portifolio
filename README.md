@@ -12,11 +12,13 @@
 > [!IMPORTANT]
 > Por isso, também foi introduzido um pouco do *Bootstrap grid*.
 
+
+
 ##### Veja o layout da página pensada, e a sua adaptação para as telas (pequenas, médias e grandes):
  - Telas grandes
    
 <div aling-"center">
- <img src="/projects/projeto_html_css_portifolio/imagens/telagrande1.png" width="100px">
+ <img src="assests/projects/projeto_html_css_portifolio/imagens/telagrande1.png" width="100px">
  <img src="/projects/projeto_html_css_portifolio/imagens/telagrande2.png" width="100px">
  <img src="/projects/projeto_html_css_portifolio/imagens/telagrande3.png" width="100px">
 </div>
@@ -39,8 +41,10 @@
  <img src="/projects/projeto_html_css_portifolio/imagens/telapequena5.png" width="100px">
 </div>
 
+
 > [!WARNING]
 > É importante ressaltar que alguns botões da tela não foram desenvolvidos, pois não era o objetivo criá-los linkados em outras páginas, como por exemplo o botão de **login**. Para exemploficar o funcionamento do botão linkado a outra página, utilizou o botão de **Assinar**, nos planos oferecidos pela empresa.
+
 
 > [!IMPORTANT]
 > Para esse projeto também foi usado pequenos detalhes com JavaScript.

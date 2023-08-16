@@ -5,19 +5,21 @@
 #### O que vimos?
  - Primeiros passos com HTML
  - Primeiros passos com CSS
+ - Desenvolvimento do projeto
 
-#### Desing Responsivo
+**Desing Responsivo**
 É importante destacar que esse projeto foi desenvolvido pensando em um desing responsivo, onde a apresentação da página no navegador se adaptasse ao tamanho da tela do usuário. 
 
 > [!IMPORTANT]
 > Por isso, também foi introduzido um pouco do *Bootstrap grid*.
+<br>
+<br>
 
 
 
 ##### Veja o layout da página pensada, e a sua adaptação para as telas (pequenas, médias e grandes):
  - Telas grandes
 
-<img src="imagens/joao-da-silva.jpg" width="180" height="180" alt="João da Silva">
 <div aling="center">
  <img src="imgread/telagrande1.png" width="400px" height="360">
 </div>
@@ -61,11 +63,12 @@
 
 > [!WARNING]
 > É importante ressaltar que alguns botões da tela não foram desenvolvidos, pois não era o objetivo criá-los linkados em outras páginas, como por exemplo o botão de **login**. Para exemploficar o funcionamento do botão linkado a outra página, utilizou o botão de **Assinar**, nos planos oferecidos pela empresa.
-
-
+<br>
+<br>
 > [!NOTE]
 > Para esse projeto também foi usado pequenos detalhes com JavaScript.
-
+<br>
+<br>
 
 **Se você tem alguma sugestão, correção, ou qualquer comentário que possa melhorar esse projeto sinta-se bem-vindo para contribir!**
 :slightly_smiling_face:

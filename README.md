@@ -16,9 +16,15 @@
 
 ##### Veja o layout da página pensada, e a sua adaptação para as telas (pequenas, médias e grandes):
  - Telas grandes
-   
+
+        <a alt="Java">
+        <img src="https://img.shields.io/badge/Java-v17-blue.svg" />
+    </a>
+    
 <div aling="center">
+ <a alt="telas grandes">
  <! img src="/../imgread/telagrande1.png" width="400px" height="360">
+ </a>
 </div>
 <div aling="center">
  <img src=".../imgread//telagrande2.png" width="400px" height="360">

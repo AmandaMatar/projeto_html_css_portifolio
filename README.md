@@ -7,11 +7,44 @@
  - Primeiros passos com CSS
 
 #### Desing Responsivo
-É importante destacar que esse projeto foi desenvolvido pensando em um desing responsivo, onde a apresentação da página no navegador se adaptasse ao tamanho da tela do usuário. Por isso, também foi introduzido um pouco do Bootstrap grid.
+É importante destacar que esse projeto foi desenvolvido pensando em um desing responsivo, onde a apresentação da página no navegador se adaptasse ao tamanho da tela do usuário. 
+
+> [!IMPORTANT]
+> Por isso, também foi introduzido um pouco do *Bootstrap grid*.
 
 ##### Veja o layout da página pensada, e a sua adaptação para as telas (pequenas, médias e grandes):
  - Telas grandes
    
-<img src="/projects/projeto_html_css_portifolio/imagens/telagrande1.png">
-<img src="/projects/projeto_html_css_portifolio/imagens/telagrande2.png">
-<img src="/projects/projeto_html_css_portifolio/imagens/telagrande3.png">
+<div aling-"center">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telagrande1.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telagrande2.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telagrande3.png" width="100px">
+</div>
+
+ - Telas médias
+   
+<div aling-"center">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telamedia1.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telamedia2.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telamedia3.png" width="100px">
+</div>div>
+
+ - Telas pequenas
+   
+<div aling-"center">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telapqeuna1.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telaprquena2.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telapequena3.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telapequena4.png" width="100px">
+ <img src="/projects/projeto_html_css_portifolio/imagens/telapequena5.png" width="100px">
+</div>
+
+> [!WARNING]
+> É importante ressaltar que alguns botões da tela não foram desenvolvidos, pois não era o objetivo criá-los linkados em outras páginas, como por exemplo o botão de **login**. Para exemploficar o funcionamento do botão linkado a outra página, utilizou o botão de **Assinar**, nos planos oferecidos pela empresa.
+
+> [!IMPORTANT]
+> Para esse projeto também foi usado pequenos detalhes com JavaScript.
+
+
+**Se você tem alguma sugestão, correção, ou qualquer comentário que possa melhorar esse projeto sinta-se bem-vindo para contribir!**
+:slightly_smiling_face:

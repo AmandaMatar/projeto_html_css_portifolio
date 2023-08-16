@@ -65,6 +65,7 @@
 > É importante ressaltar que alguns botões da tela não foram desenvolvidos, pois não era o objetivo criá-los linkados em outras páginas, como por exemplo o botão de **login**. Para exemploficar o funcionamento do botão linkado a outra página, utilizou o botão de **Assinar**, nos planos oferecidos pela empresa.
 <br>
 <br>
+
 > [!NOTE]
 > Para esse projeto também foi usado pequenos detalhes com JavaScript.
 <br>

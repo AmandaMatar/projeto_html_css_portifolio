@@ -23,8 +23,10 @@
 
 <div aling="center">
  <img src="![telagrande1](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/59f17426-e229-4bbd-8b96-9ccf89cee28c)" width="400px" height="360">
- <img src="https://drive.google.com/file/d/12h40eNvZNN0W8S8gj39M84DwN_xWD-Si/view?usp=sharing" width="400px" height="360">
- <img src="https://drive.google.com/file/d/1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD/view?usp=sharing" width="400px" height="360">
+ <br>
+ <img src="![telagrande2](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/5d6306b9-0706-4cd1-b76c-bc317bcb3b58)" width="400px" height="360">
+ <br>
+ <img src="![telagrande3](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/4866105c-cc1c-4635-84a9-64e8bc45c29d)" width="400px" height="360">
 </div>
 
  - Telas médias

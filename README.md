@@ -21,10 +21,8 @@
 ##### Veja o layout da página pensada, e a sua adaptação para as telas (pequenas, médias e grandes):
  - Telas grandes
 
-https://drive.google.com/file/d/1mXS3pZj5Z4Qvlr4nGmCyoU1CbwwfkQQ6/view?usp=sharing
-
 <div aling="center">
- <img src="https://drive.google.com/file/d/1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx/view?usp=sharing" width="400px" height="360">
+ <img src="![telagrande1](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/59f17426-e229-4bbd-8b96-9ccf89cee28c)" width="400px" height="360">
  <img src="https://drive.google.com/file/d/12h40eNvZNN0W8S8gj39M84DwN_xWD-Si/view?usp=sharing" width="400px" height="360">
  <img src="https://drive.google.com/file/d/1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD/view?usp=sharing" width="400px" height="360">
 </div>

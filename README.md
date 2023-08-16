@@ -18,7 +18,7 @@
  - Telas grandes
    
 <div aling="center">
- <img alt="telas grandes 1" src="/../imgread/telagrande1.png" width="400px" height="360">
+ <![alt="telas randes1"] img src="/../imgread/telagrande1.png" width="400px" height="360">
 </div>
 <div aling="center">
  <img src=".../imgread//telagrande2.png" width="400px" height="360">

@@ -18,26 +18,42 @@
  - Telas grandes
    
 <div aling-"center">
- <img src=".../imgread/telagrande1.png" width="360px" height="400px">
- <img src=".../imgread//telagrande2.png" width="360px" height="400px">
- <img src=".../imgread/telagrande3.png" width="360px" height="400px">
+ <img src=".../imgread/telagrande1.png" width="400px" height="360">
+</div>
+<div aling-"center">
+ <img src=".../imgread//telagrande2.png" width="400px" height="360">
+</div>
+<div aling-"center">
+ <img src=".../imgread/telagrande3.png" width="400px" height="360">
 </div>
 
  - Telas médias
    
 <div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telamedia1.png" width="100px">
+</div>
+<div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telamedia2.png" width="100px">
+</div>
+<div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telamedia3.png" width="100px">
-</div>div>
+</div>
 
  - Telas pequenas
    
 <div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telapqeuna1.png" width="100px">
+</div>
+<div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telaprquena2.png" width="100px">
+</div>
+<div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telapequena3.png" width="100px">
+</div>
+<div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telapequena4.png" width="100px">
+</div>
+<div aling-"center">
  <img src="/projects/projeto_html_css_portifolio/imagens/telapequena5.png" width="100px">
 </div>
 

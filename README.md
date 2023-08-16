@@ -18,7 +18,7 @@
  - Telas grandes
    
 <div aling="center">
- <img src=".../imgread/telagrande1.png" width="400px" height="360">
+ <img src="/../imgread/telagrande1.png" width="400px" height="360">
 </div>
 <div aling="center">
  <img src=".../imgread//telagrande2.png" width="400px" height="360">
@@ -62,7 +62,7 @@
 > É importante ressaltar que alguns botões da tela não foram desenvolvidos, pois não era o objetivo criá-los linkados em outras páginas, como por exemplo o botão de **login**. Para exemploficar o funcionamento do botão linkado a outra página, utilizou o botão de **Assinar**, nos planos oferecidos pela empresa.
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > Para esse projeto também foi usado pequenos detalhes com JavaScript.
 
 

@@ -30,6 +30,9 @@ Para esse projeto utilizou-se a metodologia BEM. Sabe-se que existem muitas outr
 
 
 ##### Veja o layout da página pensada, e a sua adaptação para as telas (pequenas, médias e grandes):
+
+<br>
+
  - Telas grandes
 
 
@@ -42,20 +45,18 @@ Para esse projeto utilizou-se a metodologia BEM. Sabe-se que existem muitas outr
  - Telas médias
    
 
- <img src="![telamedia1](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/cfbafa1b-3ab1-4808-a8f4-34f4b07a7358)" width="400px" height="360">
- <img src="![telamedia2](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/cedfc9db-7812-4d2a-a0ba-13ff21d37706)" width="400px" height="360">
- <img src="![telamedia3](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/c655f628-105c-45f5-982d-21a3701f12a6)" width="400px" height="360">
+ ![tela media 1](https://drive.google.com/file/d/1mXS3pZj5Z4Qvlr4nGmCyoU1CbwwfkQQ6/view?usp=sharing)
+ ![tela media 2](https://drive.google.com/file/d/1BcUqwKhiyiklI8bZsWDFlDZflrMirvJY/view?usp=sharing)
+ ![tela media 3](https://drive.google.com/file/d/1Orb_MBufFC6iy2ryD4wsvUdMmThmUCfT/view?usp=sharing)
 
 
  - Telas pequenas
    
-
- <img src="![telapequena1](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/b55424ab-cd88-4e70-8a9f-ead49548d985)" width="400px" height="360">
- <img src="![telapequena2](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/24004416-7a11-4daf-8e04-0c55847ee0e1)" width="400px" height="360">
- <img src="![telapequena3](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/76d85b89-9ed4-4bac-aac2-30dff76c99fc)daMatar/projeto_html_css_portifolio/assets/119630118/24004416-7a11-4daf-8e04-0c55847ee0e1)" width="400px" height="360">
- <img src="![telapequena4](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/00ac4ba1-cb6a-4d2e-bc62-5cdab2178061)" width="400px" height="360">
- <img src="
-![telapequena5](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/61d7486d-1884-4159-829c-f04bf8e43e9c)" width="400px" height="360">
+![tela pequena 1](https://drive.google.com/file/d/1ZgylHpvC8dnKEkSt7CVi1jCGUc8v0ybl/view?usp=sharing)
+![tela pequena 2](https://drive.google.com/file/d/1NHuusRX9q7cVmzG7Qklxaj98MLlNt7Ev/view?usp=sharing)
+![tela pequena 3](https://drive.google.com/file/d/1lufQznpS_8LZgvJN3VS3O6cGP5l9_8g9/view?usp=sharing)
+![tela pequena 4](https://drive.google.com/file/d/1klXgd7XpV1f84iKfYowrSue1QZSIzvpK/view?usp=sharing)
+![tela pequena 5](https://drive.google.com/file/d/1YSFU2zurSM0IiD54qZKaE2BYyU1LdGje/view?usp=sharing)
 
 
 <br>

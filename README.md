@@ -37,26 +37,26 @@ Para esse projeto utilizou-se a metodologia BEM. Sabe-se que existem muitas outr
 
 
 
- ![tela grande 1](https://drive.google.com/file/d/1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx/view?usp=sharing.svg)
- ![tela grande 2](https://drive.google.com/file/d/12h40eNvZNN0W8S8gj39M84DwN_xWD-Si/view?usp=sharing)
- ![tela grande 3](https://drive.google.com/file/d/1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD/view?usp=sharing)
+![tela grande 1](https://drive.google.com/uc?id=1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx)
+![tela grande 2](https://drive.google.com/uc?id=12h40eNvZNN0W8S8gj39M84DwN_xWD-Si)
+![tela grande 3](https://drive.google.com/uc?id=1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD)
 
 
  - Telas médias
    
 
- ![tela media 1](https://drive.google.com/file/d/1mXS3pZj5Z4Qvlr4nGmCyoU1CbwwfkQQ6/view?usp=sharing)
- ![tela media 2](https://drive.google.com/file/d/1BcUqwKhiyiklI8bZsWDFlDZflrMirvJY/view?usp=sharing)
- ![tela media 3](https://drive.google.com/file/d/1Orb_MBufFC6iy2ryD4wsvUdMmThmUCfT/view?usp=sharing)
+ ![tela media 1](https://drive.google.com/uc?id=1mXS3pZj5Z4Qvlr4nGmCyoU1CbwwfkQQ6)
+ ![tela media 2](https://drive.google.com/uc?id=1BcUqwKhiyiklI8bZsWDFlDZflrMirvJY)
+ ![tela media 3](https://drive.google.com/uc?id=1Orb_MBufFC6iy2ryD4wsvUdMmThmUCfT)
 
 
  - Telas pequenas
    
-![tela pequena 1](https://drive.google.com/file/d/1ZgylHpvC8dnKEkSt7CVi1jCGUc8v0ybl/view?usp=sharing)
-![tela pequena 2](https://drive.google.com/file/d/1NHuusRX9q7cVmzG7Qklxaj98MLlNt7Ev/view?usp=sharing)
-![tela pequena 3](https://drive.google.com/file/d/1lufQznpS_8LZgvJN3VS3O6cGP5l9_8g9/view?usp=sharing)
-![tela pequena 4](https://drive.google.com/file/d/1klXgd7XpV1f84iKfYowrSue1QZSIzvpK/view?usp=sharing)
-![tela pequena 5](https://drive.google.com/file/d/1YSFU2zurSM0IiD54qZKaE2BYyU1LdGje/view?usp=sharing)
+![tela pequena 1](https://drive.google.com/uc?id=1ZgylHpvC8dnKEkSt7CVi1jCGUc8v0ybl)
+![tela pequena 2](https://drive.google.com/uc?id=1NHuusRX9q7cVmzG7Qklxaj98MLlNt7Ev)
+![tela pequena 3](https://drive.google.com/uc?id=1lufQznpS_8LZgvJN3VS3O6cGP5l9_8g9)
+![tela pequena 4](https://drive.google.com/uc?id=1klXgd7XpV1f84iKfYowrSue1QZSIzvpK)
+![tela pequena 5](https://drive.google.com/uc?id=1YSFU2zurSM0IiD54qZKaE2BYyU1LdGje)
 
 
 <br>

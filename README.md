@@ -35,8 +35,8 @@ Para esse projeto utilizou-se a metodologia BEM. Sabe-se que existem muitas outr
 
 
  ![tela grande 1](https://drive.google.com/file/d/1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx/view?usp=sharing)
- <img src="![telagrande2](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/5d6306b9-0706-4cd1-b76c-bc317bcb3b58)" width="400px" height="360">
- <img src="![telagrande3](https://github.com/AmandaMatar/projeto_html_css_portifolio/assets/119630118/4866105c-cc1c-4635-84a9-64e8bc45c29d)" width="400px" height="360">
+ ![tela grande 2](https://drive.google.com/file/d/12h40eNvZNN0W8S8gj39M84DwN_xWD-Si/view?usp=sharing)
+ ![tela grande 3](https://drive.google.com/file/d/1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD/view?usp=sharing)
 
 
  - Telas médias

@@ -37,7 +37,7 @@ Para esse projeto utilizou-se a metodologia BEM. Sabe-se que existem muitas outr
 
 
 
- ![tela grande 1](https://drive.google.com/file/d/1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx/view?usp=sharing)
+ ![tela grande 1](https://drive.google.com/file/d/1SwiE4HHXsRhkBt0GvxqQvmpczwy6ysNx/view?usp=sharing.svg)
  ![tela grande 2](https://drive.google.com/file/d/12h40eNvZNN0W8S8gj39M84DwN_xWD-Si/view?usp=sharing)
  ![tela grande 3](https://drive.google.com/file/d/1NoVZyGoQP0FE6Q6T_d4ropKsMHJhhiDD/view?usp=sharing)
 
